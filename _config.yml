@@ -25,7 +25,7 @@ url                      : "https://KoHornME.github.io" # GitBlog 호스트 주�
 baseurl                  : "/blog" # subPath https://KoHornME.github.io/blog라고 하고 싶을 시 "/blog" 라고 적는다.
 repository               : "KoHornME/KoHornME.github.com" # GitHub username/repo - name
 teaser                   : # "/assets/images/senior-couple-4723737_640.jpg" # 홈페이지 기본 티져 이미지
-logo                     : "🎃" # "/assets/images/88x88.png" # 타이틀 옆에 작게 들어갈 이미지(로고)
+logo                     : "/assets/pum.png" # "/assets/images/88x88.png" # 타이틀 옆에 작게 들어갈 이미지(로고)
 masthead_title           : "기록하는 개발자 Blog" # 홈페이지 최 상단에 들어갈 타이틀
 breadcrumbs              : true # 브래드크럼 사용 여부 true, false (default) , _data/ui-text.yml에 다국어 지원 가능
 words_per_minute         : 200 # 해당 포스트 읽는데 걸리는 시간들 계산하기 위해 읽는 수가 몇글자가 될지 적는 공간
