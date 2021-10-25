@@ -23,7 +23,7 @@ name                     : "새싹🌱" # 맨 하단 이름 적히는 영역
 description              : "C#과 Unity등 다양한 개발을 공부하는 블로그👨‍💻" # Meta 태그에 들어가는 영역
 url                      : "https://KoHornME.github.io" # GitBlog 호스트 주소
 baseurl                  : "/blog" # subPath https://KoHornME.github.io/blog라고 하고 싶을 시 "/blog" 라고 적는다.
-repository               : "KoHornME/KoHornME.github.com" # GitHub username/repo - name
+repository               : "minisan/minisan.github.io" # GitHub username/repo - name
 teaser                   : # "/assets/images/senior-couple-4723737_640.jpg" # 홈페이지 기본 티져 이미지
 logo                     : "/assets/pum.png" # "/assets/images/88x88.png" # 타이틀 옆에 작게 들어갈 이미지(로고)
 masthead_title           : "기록하는 개발자 Blog" # 홈페이지 최 상단에 들어갈 타이틀
